@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74283898832",
+    "project_id": "ruta-gris",
+    "storage_bucket": "ruta-gris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74283898832:android:4aca9487f3d914cf234bd5",
+        "android_client_info": {
+          "package_name": "com.itmdevs.rutagris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74283898832-bvdsid3hj073cvul2hpin6mujdrhi4b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfmjUuLqTpx5xDxL_vFjmowd9Wo1as7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74283898832-bvdsid3hj073cvul2hpin6mujdrhi4b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
